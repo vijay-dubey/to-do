@@ -15,6 +15,7 @@ body {
 }
 
 /*some comment*/
+/*some other comment*/
 .todo-app {
   display: flex;
   flex-direction: column;
